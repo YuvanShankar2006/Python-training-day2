@@ -1,2 +1,2 @@
-##daty two in python training program
+Day two in python training program
 learnt classes and objects detailedly
